@@ -11,7 +11,6 @@
   inputs.src-norm-master.ref   = "refs/heads/master";
   inputs.src-norm-master.owner = "moigagoo";
   inputs.src-norm-master.repo  = "norm";
-  inputs.src-norm-master.dir   = "";
   inputs.src-norm-master.type  = "github";
   
   inputs."ndb".owner = "nim-nix-pkgs";

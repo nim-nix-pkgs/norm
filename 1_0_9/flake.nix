@@ -11,7 +11,6 @@
   inputs.src-norm-1_0_9.ref   = "refs/tags/1.0.9";
   inputs.src-norm-1_0_9.owner = "moigagoo";
   inputs.src-norm-1_0_9.repo  = "norm";
-  inputs.src-norm-1_0_9.dir   = "";
   inputs.src-norm-1_0_9.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

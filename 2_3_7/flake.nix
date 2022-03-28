@@ -11,7 +11,6 @@
   inputs.src-norm-2_3_7.ref   = "refs/tags/2.3.7";
   inputs.src-norm-2_3_7.owner = "moigagoo";
   inputs.src-norm-2_3_7.repo  = "norm";
-  inputs.src-norm-2_3_7.dir   = "";
   inputs.src-norm-2_3_7.type  = "github";
   
   inputs."ndb".owner = "nim-nix-pkgs";

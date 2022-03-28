@@ -11,7 +11,6 @@
   inputs.src-norm-1_0_0.ref   = "refs/tags/1.0.0";
   inputs.src-norm-1_0_0.owner = "moigagoo";
   inputs.src-norm-1_0_0.repo  = "norm";
-  inputs.src-norm-1_0_0.dir   = "";
   inputs.src-norm-1_0_0.type  = "github";
   
   inputs."chronicles".owner = "nim-nix-pkgs";

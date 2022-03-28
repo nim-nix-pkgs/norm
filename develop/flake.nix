@@ -11,7 +11,6 @@
   inputs.src-norm-develop.ref   = "refs/heads/develop";
   inputs.src-norm-develop.owner = "moigagoo";
   inputs.src-norm-develop.repo  = "norm";
-  inputs.src-norm-develop.dir   = "";
   inputs.src-norm-develop.type  = "github";
   
   inputs."ndb".owner = "nim-nix-pkgs";
